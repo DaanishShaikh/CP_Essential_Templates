@@ -9,6 +9,7 @@ using u32 = unsigned;
  
 void solve() {
    
+    
 }
  
 int main() {
